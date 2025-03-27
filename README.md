@@ -9,9 +9,10 @@ This repository contains my personal solutions to problems from:
 
 ## ✅ Progress Tracker
 
-| #   | Problem | Link                                           | Source      | Status  | Notes               |
-| --- | ------- | ---------------------------------------------- | ----------- | ------- | ------------------- |
-| 1   | Two Sum | [Link](https://leetcode.com/problems/two-sum/) | LeetCode 75 | ✅ Done | [Notes](1.notes.md) |
+| #   | Problem                    | Link                                                             | Source      | Status  | Notes                 |
+| --- | -------------------------- | ---------------------------------------------------------------- | ----------- | ------- | --------------------- |
+| 1   | Two Sum                    | [Link](https://leetcode.com/problems/two-sum/)                   | LeetCode 75 | ✅ Done | [Notes](1.notes.md)   |
+| 2   | Maximum Average Subarray I | [Link](https://leetcode.com/problems/maximum-average-subarray-i) | LeetCode 75 | ✅ Done | [Notes](643.notes.md) |
 
 ---
 
